@@ -195,8 +195,16 @@ img .imagem{
     
 
 }
+.footer{
+    text-align: center;
+    background-color: #0d0d0d;
+    color: white;
+    font-family: var(--fonte-padrao);
+}
+/*
 div .div-box{
     font-family: var(--fonte-padrao);
     font-size: 15px;
     font-style: normal
 }
+*/
