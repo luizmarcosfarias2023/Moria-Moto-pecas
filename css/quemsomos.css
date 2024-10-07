@@ -200,6 +200,8 @@ img .imagem{
     background-color: #0d0d0d;
     color: white;
     font-family: var(--fonte-padrao);
+    font-style: normal;
+    padding: 10px;
 }
 /*
 div .div-box{
