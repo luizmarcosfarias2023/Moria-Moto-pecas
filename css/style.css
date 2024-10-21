@@ -145,7 +145,10 @@ footer{
     padding:5px;
 }
 
+footer{
+    padding: auto;
+}
 footer > p{
     color: white;
-    text-shadow: 2px 2px 3px #0d0d0d;
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.74);
 }
